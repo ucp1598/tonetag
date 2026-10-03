@@ -40,8 +40,7 @@ of every word. Those timestamps are the foundation for later measuring pauses an
 - pytest for tests
 
 Planned: Streamlit, praat-parselmouth and librosa (prosody), Hugging Face `transformers`
-(pretrained speech-emotion model). Everything is free and open source and runs on a normal laptop CPU.
-No model training is involved.
+(pretrained speech-emotion model). The current local processing stack is free and open source and runs on a normal laptop CPU. No model training is involved
 
 ## Install and run
 
