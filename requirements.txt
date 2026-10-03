@@ -1,0 +1,21 @@
+# Versions tested on Windows, Python 3.11.
+# Only transcription is implemented so far; the other libraries are for planned milestones.
+
+# Core
+pytest==9.1.1
+numpy==2.4.6
+
+# Speech-to-text (in use)
+faster-whisper==1.2.1
+
+# Audio analysis (planned)
+praat-parselmouth==0.4.7
+librosa==0.11.0
+soundfile==0.14.0
+
+# Emotion model (planned; CPU is enough)
+torch==2.14.1
+transformers==5.18.0
+
+# UI (planned)
+streamlit==1.64.0
